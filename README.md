@@ -1,4 +1,5 @@
-# Statistics_mini_project
+# Statistics_mini_project-La Liga dataset
 The senior management team of the sports company has asked you to come up with metrics with which they can gauge which team will win the upcoming La Liga cup (Football tournament).The given data set contains information on all the teams that have so far participated in all the past tournaments. It has data about how many goals each team scored, conceded; how many times they came within the first 6 positions, how many seasons they have qualified, their best position in the past, etc.
 
+# Golf dataset
 One of the researchers voiced concern about the effect of the new coating on driving distances. Par would like the new cut-resistant ball to offer driving distances comparable to those of the current-model golf ball. To compare the driving distances for the two balls, 40 balls of both the new and current models were subjected to distance tests. The testing was performed with a mechanical hitting machine so that any difference between the mean distances for the two models could be attributed to a difference in the design. The results of the tests, with distances measured to the nearest yard, are contained in the data set “Golf”.
